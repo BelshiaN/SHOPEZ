@@ -1,4 +1,4 @@
-# SHOPEZ (AN ECOMMERCE APPLICATION)
+# SHOPEZ   (An Ecommerce Application)
 
 Welcome to **SHOPEZ**, an e-commerce platform that provides a seamless shopping experience with both **Admin** and **Customer** functionalities. SHOPEZ is designed to meet the essential needs of a modern e-commerce application, including user management, product browsing, order management, and a secure checkout process.
 
